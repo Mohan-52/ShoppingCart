@@ -1,0 +1,29 @@
+.product {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  width: 230px;
+  min-height: 150px;
+  display: flex;
+  flex-direction: column;
+}
+
+.prod-name {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.product-price {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.add-btn {
+  background-color: rgb(56, 169, 239);
+  border: none;
+  padding: 10px;
+  color: #fff;
+  font-size: 15px;
+  cursor: pointer;
+  border-radius: 5px;
+}
